@@ -18,7 +18,7 @@ Se utilizaron servicios de terceros para lograr un prototipo funcional en poco t
 
 ## Data recolectada:
 
-Toda la info es accesible desde una hoja de calculo de Google
+Toda la data de los reportes esta disponible en:
 
-[Data](https://docs.google.com/spreadsheets/d/1NfBLynsZDLtN1ZKQ9AYOqHHHHMchkZ3G2LTkXlYf9gU/edit?usp=sharing)
+[Data](https://docs.google.com/spreadsheets/d/1Jtoe02q5QTf2LfGaRAhZufV2tfrxKVMZiUoziEvLO38/edit?usp=sharing)
  
